@@ -1,8 +1,8 @@
 class KarajanCode < Formula
   desc "Local multi-agent coding orchestrator with TDD, SonarQube, and code review"
   homepage "https://karajancode.com"
-  url "https://registry.npmjs.org/karajan-code/-/karajan-code-1.57.2.tgz"
-  sha256 "05ba47a5f4e460b56a862591375573cb6b135cea712664df02ca95375903faad"
+  url "https://registry.npmjs.org/karajan-code/-/karajan-code-1.58.2.tgz"
+  sha256 "61105d2385a897d00334185abc90a000f487d184610969096748ef1eeb3306de"
   license "AGPL-3.0-only"
 
   depends_on "node@20"
